@@ -81,7 +81,7 @@
                 <div class="carousel-item carousel-image-1 active">
                     <div class="container">
                         <div class="carousel-caption ">
-                            <h1 class="display-3">Lamborghini</h1>
+                            <h1 class="display-3 text-bold">Lamborghini</h1>
                             <p class="d-none d-sm-block">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum distinctio et fugiat officiis tempora ducimus beatae repellendus accusantium iste quas?</p>
                         </div>
                     </div>
@@ -89,7 +89,7 @@
                 <div class="carousel-item carousel-image-2 ">
                     <div class="container">
                         <div class="carousel-caption ">
-                            <h1 class="display-3">Porsche</h1>
+                            <h1 class="display-3 text-bold">Porsche</h1>
                             <p class="d-none d-sm-block">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum distinctio et fugiat officiis tempora ducimus beatae repellendus accusantium iste quas?</p>
                         </div>
                     </div>
@@ -97,7 +97,7 @@
                 <div class="carousel-item carousel-image-3 ">
                     <div class="container">
                         <div class="carousel-caption ">
-                            <h1 class="display-3">Ferrari</h1>
+                            <h1 class="display-3 text-bold">Ferrari</h1>
                             <p class="d-none d-sm-block">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum distinctio et fugiat officiis tempora ducimus beatae repellendus accusantium iste quas?</p>
                         </div>
                     </div>
@@ -105,7 +105,7 @@
                 <div class="carousel-item carousel-image-4 ">
                     <div class="container">
                         <div class="carousel-caption">
-                            <h1 class="display-3">Maserati</h1>
+                            <h1 class="display-3 text-bold">Maserati</h1>
                             <p class="d-none d-sm-block">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum distinctio et fugiat officiis tempora ducimus beatae repellendus accusantium iste quas?</p>
                         </div>
                     </div>
@@ -113,7 +113,7 @@
                 <div class="carousel-item carousel-image-5 ">
                     <div class="container">
                         <div class="carousel-caption">
-                            <h1 class="display-3">Mercedes-Benz</h1>
+                            <h1 class="display-3 text-bold">Mercedes-Benz</h1>
                             <p class="d-none d-sm-block">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum distinctio et fugiat officiis tempora ducimus beatae repellendus accusantium iste quas?</p>
                         </div>
                     </div>
@@ -914,7 +914,7 @@
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A, voluptatibus?</p>
                             <div class="m-2">
                                 <!-- Facebook -->
-                                <a class="fb-ic m-3">
+                                <a class="fb-ic m-3" href="https://web.facebook.com/ppong.sml" >
                                     <i class="fab fa-facebook-f fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                                 </a>
                                 <!-- Twitter -->
@@ -925,8 +925,7 @@
                                 <a class="gplus-ic m-3">
                                     <i class="fab fa-google-plus-g fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
                                 </a>
-                                <!--Linkedin -->
-
+                                
                                 <!--Instagram-->
                                 <a class="ins-ic m-3">
                                     <i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
