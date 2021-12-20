@@ -1,0 +1,221 @@
+*{
+    font-family: "Noto Sans Lao";
+}
+#drivenwheel{
+    font-family: "Noto Sans Lao";
+}
+.carousel-item{
+    height: 500px;
+}
+.navbar li{
+    background-color:#262626;
+    border: 1px ;
+    border-radius: 5px;
+}
+.navbar li:hover{
+    background-color:rgb(209, 209, 165);
+    
+}
+
+.carousel-image-1{
+    background-image: url('image/lamborghini-g6b4c33a95_1920.jpg');
+   background-size: cover;
+   background-position: center;
+}
+.carousel-image-2{
+    background-image: url('image/porse.jpg');
+   background-size: cover;
+   background-position: center;
+}
+.carousel-image-3{
+    background-image: url('image/fer.jpg');
+   background-size: cover;
+   background-position: bottom;
+}
+.carousel-image-4{
+    background-image: url('image/mars.jpg');
+   background-size: cover;
+   background-position: bottom;
+}
+.carousel-image-5{
+    background-image: url('image/mercedes.jpg');
+   background-size: cover;
+   background-position: bottom;
+}
+.sv{
+    background-color: rgb(181, 203, 221);
+}
+.sv:hover{
+    background-color: rgb(38, 129, 233);
+    
+    
+}
+.sv > a{
+    text-decoration: none;
+    color: black;
+}
+.sv > a:hover{
+    color: white;
+}
+#about{
+    min-height: 200px;
+    position: relative;
+    background-image: url("image/about1.jpg");
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.dark-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0, 0, 0.7);
+    width: 100%;
+    height: 100%;
+
+}
+
+.heading{
+    color: #000;
+
+}
+.owl-carousel.major-carousel .owl-stage-outer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.owl-carousel.major-carousel .owl-nav .owl-prev,
+.owl-carousel.major-carousel .owl-nav .owl-next{
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+    color: #495050;
+}
+.owl-carousel.major-carousel .owl-nav .owl-prev:hover,
+.owl-carousel.major-carousel .owl-nav .owl-prev:focus,
+.owl-carousel.major-carousel .owl-nav .owl-next:hover,
+.owl-carousel.major-carousel .owl-nav .owl-next:focus {
+    color: #868e96;
+    outline: none;
+}
+.owl-carousel.major-carousel .owl-nav .owl-prev.disabled,
+.owl-carousel.major-carousel .owl-nav .owl-next.disabled{
+    color: #dee2e6;
+
+}
+.owl-prev{
+    left:  -25px;
+    
+}
+.owl-next{
+    right:  -25px;
+    
+}
+.owl-prev,.owl-next{
+ position: absolute;
+top: 160px;
+
+}
+.owl-next span ,.owl-prev span{
+    font-size: 40px;
+    color: #000;
+}
+
+.owl-dots{
+    bottom: 50px!important;
+    position: relative;
+}
+.media-custom{
+    background: #fff;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+    margin-bottom: 30px;
+    position:relative;
+    top: 0;
+    border-radius: 10px;
+
+}
+.media-custom > a{
+    position: relative
+    ;
+    overflow: hidden;
+    display: block;
+    
+
+}
+.pda{
+    text-decoration: none;
+}
+.media-custom img{
+    height: 300px;
+    object-fit: cover;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+
+}
+.media-custom:focus, .media-custom:hover {
+    top: -2px;
+    -webkit-box-shadow: 0 2px 40px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 2px 40px 0 rgba(0,0,0,0.2);
+}
+.media-custom:focus img, .media-custom:hover img{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.media-custom .media-body {
+    padding: 30px;
+}
+.media-custom .media-body h3{
+    font-size: 20px;
+
+
+}
+.text-black {
+    color: #000;
+}
+.price{
+    font-size: 14px;
+    color: #868e96;
+}
+.media-custom .media-body p:last-child{
+    margin-bottom: 0;
+
+}
+.card-custom{
+    width: 50%;
+    height: 50%;
+    object-fit: contain;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    display: block;
+    align-self: center;
+    
+}
+.card-custom:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+  .h4-custom{
+      color: rgb(143, 188, 240);
+  }
+  .h4-custom:hover{
+    text-transform: uppercase;
+    color: red;
+  }
+
+.card-svg {
+    background-color: lightblue;
+    
+    
+    
+}
+
+.card-svg :hover{
+    background-color: rgb(201, 70, 19);
+    color:#fff;
+    fill: #fff;
+    
+}
